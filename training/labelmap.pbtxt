@@ -1,0 +1,57 @@
+item {
+  id: 1
+  name: 'SAATIM'
+}
+
+item {
+  id: 2
+  name: 'EL'
+}
+
+item {
+  id: 3
+  name: 'BASKA SAAT'
+}
+
+item {
+  id: 4
+  name: 'ANAHTAR'
+}
+
+item {
+  id: 5
+  name: 'CUZDAN'
+}
+
+item {
+  id: 6
+  name: 'KALEM'
+}
+
+item {
+  id: 7
+  name: 'KLAVYE'
+}
+
+item {
+  id: 8
+  name: 'DEFTER'
+}
+
+
+item {
+  id: 9
+  name: 'KALEMLIK'
+}
+
+item {
+  id: 10
+  name: 'BANT'
+}
+
+item {
+  id: 11
+  name: 'SIGARA'
+}
+
+
