@@ -5,8 +5,12 @@
 
 
 
-Bu havuz Windows 10 üzerinde kendi eğitim setinizi eğitip yine windows üzerinde koşturulmasını hedeflemektedir.Tensorflowun 1.13 versiyonu bu api için en optimum çalışan sürümdür.
-Aşağıdaki resime tıklayarak eğitimin webcam üzerinden koşturulmasını izleyebilirsiniz.
+Bu havuz Windows 10 üzerinde kendi eğitim setinizi eğitip yine windows üzerinde koşturulmasını hedeflemektedir.
+
+Eğer mobil bir cihazda nesne tanıma modeli oluşturmak istiyorsak [RASPBERRY PI ILE NESNE ALGILAMA](https://github.com/engbkr/GomSisProje-1-RaspiNesneAlgilama) projemize gözatabilirsiniz.
+
+Tensorflowun 1.13 versiyonu bu api için en optimum çalışan sürümdür.
+Aşağıdaki resme tıklayarak eğitimin webcam üzerinden koşturulmasını izleyebilirsiniz.
 
 
 
