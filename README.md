@@ -82,7 +82,7 @@ Bu noktada, \ object_detection klasörünüzün şöyle görünmesi gerekir:
 
 
 <p align="center">
-  <img src="resimler/klasör göünümü.jpg">
+  <img src="resimler/rasbi.PNG">
 </p>
 
 Kendi nesne dedektörünüzü eğitmek istiyorsanız, aşağıdaki dosyaları silin (klasörleri silmeyin):
